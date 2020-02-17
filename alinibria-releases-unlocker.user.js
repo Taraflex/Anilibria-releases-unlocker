@@ -21,7 +21,7 @@
     function torrentRow(id, series, quality, d) {
         return `<tr id="torrentTableID${id}">
 <td id="torrentTableInfo${id}" class="torrentcol1">Серия ${series} [${quality}]</td>
-<td class="torrentcol2"></td>
+<td class="torrentcol2"> </td>
 <td id="torrentTableDate${id}" class="torrentcol3">Добавлен ${d}</td>
 <td class="torrentcol4"><img style="margin-bottom: 3px;" src="/img/other/5.png" alt="dl"> <a class="torrent-download-link" href="/upload/torrents/${id}.torrent" download>Cкачать</a></td>
 </tr>`;
