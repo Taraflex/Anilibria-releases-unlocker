@@ -5,7 +5,7 @@
 // @namespace    taraflex
 // @author       taraflex.red@gmail.com
 // @run-at       document-end
-// @downloadURL  https://raw.githubusercontent.com/Taraflex/Anilibria-releases-unlocker/master/alinibria-releases-unlocker.user.js
+// @downloadURL  https://github.com/Taraflex/Anilibria-releases-unlocker/raw/master/alinibria-releases-unlocker.user.js
 // @homepageURL  https://github.com/Taraflex/Anilibria-releases-unlocker
 // @supportURL   https://github.com/Taraflex/Anilibria-releases-unlocker/issues
 // @noframes
